@@ -47,7 +47,6 @@
 	<a href="https://github.com/Maheshp1998"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/9511935591"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/mahesh-baviskar-8b26841b2/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href=""><img src="" alt="Facebook"/></a>
 	<a href="https://instagram.com/mahi._.1998?igshid=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
 	
 </p>
