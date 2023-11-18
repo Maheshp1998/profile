@@ -98,7 +98,7 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="J-Query" src="https://img.shields.io/badge/Jquery%20-%23F7DF1E.svg?style=plastic&logo=jquery&logoColor=black">
+     <img alt="J-Query" src="https://img.shields.io/badge/Jquery%20-%23E4405F.svg?style=plastic&logo=jquery&logoColor=black">
    </a>
 </p>
 
@@ -169,9 +169,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
+
 </p>
 
 <br> 
