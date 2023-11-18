@@ -19,10 +19,10 @@
 
 <br><br>
 
-- :school: I am a Senior Python developer at [Koli Infotech Pvt ltd](https://koliinfotech.com/our-team) at [Surat, Gujarat]().
+- :school: I am a Senior Python developer at [Koli Infotech Pvt ltd](https://koliinfotech.com/our-team) at [Surat,Gujarat]().
 - :trophy: 2x `hackthon` Runnerup.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Hackerank`, `Leetcode`, `Codechef`, .
+- :computer: I am a competitive programmer at `Hackerank`, `Leetcode`, `Codechef`.
 - 💻: Working as a `Technical Lead` and `Senior Software Developer`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://surl.li/nhcmg).
